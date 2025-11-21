@@ -7,3 +7,13 @@ La parte de los paquetes por Carlos.
 La parte de los vuelos por Ricardo.
 
 Ricardo, al igual que en el trabajo de PHP, envió su parte a última hora, mal hecha, y sin organizar. Sus palabras texuales han sido "Tienes razón, si no funciona el mío enviarlo como esta".
+
+Enlace a github: https://github.com/xcrinmay805/Proyecto_DIW_JS_25_26.git
+
+# Datos de acceso a la BD:
+
+Nombre: Viajes
+
+Usuario: root
+
+Contraseña: test
